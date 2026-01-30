@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> ARTHAM INDHA MASTERUUUU.</h2>
+      <h2> ARTHAM INDHA MASTERUUU.</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
